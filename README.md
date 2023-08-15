@@ -5,13 +5,14 @@
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
 --- 
-
+![BMI Calculator.png](demo%2FBMI%20Calculator.png)
 ## Table of Contents
 
 * [Overview](#overview)
 * [Demo](#demo)
 * [Documentation](#documentation)
 * [Features](#features)
+* [Flow Chart](#flow-chart)
 * [Converting to Executable](#converting-to-executable)
 * [Controls](#Controls)
 * [Licensing](#license)
@@ -34,21 +35,21 @@ monitor their health and make informed decisions about their lifestyle choices.
 
 ## Demo
 
-![demo-blog.gif](apps/static/assets/demo/demo-blog.gif)
+![BMI App Demo.gif](demo%2FBMI%20App%20Demo.gif)
 
-- **Download the One file .exe file from the dist or download folder**
+- **Download the One file .exe file from the dist folder**
 - **You don't need to install anything, just download, click and start playing.**
 
 <br />
 
 ## Features
 
->  Hers are some main features
+>  Some main features
 
 1. ✅ `Friendly Interface`: An intuitive and visually appealing interface that guides users through the process
    of inputting their weight and height.
 
-2. ✅ `BMI Calculation`: Implemented the BMI formula to accurately calculate the user's Body Mass Index using their
+2. ✅ `BMI Calculation`: Implemented BMI formula to accurately calculate the user's Body Mass Index using their
    weight (in kilograms) and height (in meters).
 
 3. ✅ `Result Display`: Displays the calculated BMI value along with an associated interpretation, indicating whether the
@@ -58,6 +59,12 @@ monitor their health and make informed decisions about their lifestyle choices.
    inches) units for inputting weight and height.
 
 <br />
+
+## Flow Chart
+![Bmi Calculator Flowchart.png](files%2Fflow_chart%2FBmi%20Calculator%20Flowchart.png)
+
+<br />
+
 
 ## Documentation
 
@@ -104,21 +111,29 @@ $ pyinstaller main.spec
 
 Press the left or right key to control the paddle.
 
+<br />
+
 ## License
 
 This project is licensed under the MIT license. See also the attached LICENSE file.
+
+<br />
 
 ## Reporting Issues
 
 GitHub Issues is the official bug tracker for the Break-Out-II.
 
+<br />
+
 ## Technical Support or Questions
 
-If you have questions contact me [okpeamos.ao@gmail.com]() instead of opening an issue.
+If you have questions contact me `okpeamos.ao@gmail.com` instead of opening an issue.
 
 - Make sure that you are using the latest version of the BMI Calculator. 
 - Check the CHANGELOG
 - Provide reproducible steps for the issue will shorten the time it takes for it to be fixed.
+
+<br />
 
 ## For Open Source
 
@@ -127,6 +142,8 @@ Body Mass Index. By working on this project, you'll enhance your skills in GUI d
 and user interface design. Whether you're aiming to build a tool for personal health tracking or contribute to health
 awareness, "BMI Buddy" allows you to explore the world of GUI development while creating an application that promotes
 health-conscious decisions.
+
+<br />
 
 ## Social Media
 

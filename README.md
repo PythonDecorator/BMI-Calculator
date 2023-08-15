@@ -109,7 +109,11 @@ $ pyinstaller main.spec
 
 ## Controls
 
-Press the left or right key to control the paddle.
+- Move the slider to select your height
+- Press Large plus + button to add 1 unit to the weight
+- Press Large minus - button to remove 1 unit from the weight
+- Press small plus + button to add 0.1 unit to the weight
+- Press small minus - button to remove 0.1 unit from the weight
 
 <br />
 

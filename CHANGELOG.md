@@ -1,5 +1,5 @@
 # Change Log
 
-## [1.0.0] 2023-04-07
+## [1.0.0] 2023-05-09
 ### Initial Release
-- Break-Out-II v1.0.0
+- BMI Calculator v1.0.0

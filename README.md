@@ -38,7 +38,7 @@ monitor their health and make informed decisions about their lifestyle choices.
 ![BMI App Demo.gif](demo%2FBMI%20App%20Demo.gif)
 
 - **Download the One file .exe file from the dist folder**
-- **You don't need to install anything, just download, click and start playing.**
+- **You don't need to install anything download and start using.**
 
 <br />
 
